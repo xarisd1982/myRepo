@@ -1,5 +1,5 @@
 package my.project;
 
-public class Test {
+public class Test2 {
 
 }
